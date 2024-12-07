@@ -1,0 +1,158 @@
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/DGW_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9950
+MSE: 1657026.3374
+RMSE: 1287.2554
+MAE: 761.9504
+MAPE%: 3.14%
+Directional Accuracy (DA): 47.02%
+
+TEST SET METRICS:
+R2: 0.9338
+MSE: 1456316.4465
+RMSE: 1206.7794
+MAE: 858.0777
+MAPE%: 2.02%
+Directional Accuracy (DA): 45.38%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/DGW_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9950
+MSE: 1657026.3374
+RMSE: 1287.2554
+MAE: 761.9504
+MAPE%: 3.14%
+Directional Accuracy (DA): 47.02%
+
+TEST SET METRICS:
+R2: 0.9338
+MSE: 1456316.4465
+RMSE: 1206.7794
+MAE: 858.0777
+MAPE%: 2.02%
+Directional Accuracy (DA): 45.38%
+==================================================
+Model: LSTM Model
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/DGW_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9892
+MSE: 3579268.8047
+RMSE: 1891.8956
+MAE: 1144.7439
+MAPE%: 4.53%
+
+TEST SET METRICS:
+R2: 0.8498
+MSE: 3183978.1693
+RMSE: 1784.3705
+MAE: 1362.1341
+MAPE%: 3.18%
+==================================================
+Model: ARIMA Model (order=(5, 1, 0))
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/DGW_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9969
+MSE: 1045329.4352
+RMSE: 1022.4135
+MAE: 613.1678
+MAPE%: 2.40%
+
+TEST SET METRICS:
+R2: -9.1079
+MSE: 226491084.5814
+RMSE: 15049.6207
+MAE: 14285.8598
+MAPE%: 32.16%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/DGW_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9950
+MSE: 1657026.3374
+RMSE: 1287.2554
+MAE: 761.9504
+MAPE%: 3.14%
+Directional Accuracy (DA): 47.02%
+
+TEST SET METRICS:
+R2: 0.9338
+MSE: 1456316.4465
+RMSE: 1206.7794
+MAE: 858.0777
+MAPE%: 2.02%
+Directional Accuracy (DA): 45.38%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024\DGW_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9950
+MSE: 1657026.3374
+RMSE: 1287.2554
+MAE: 761.9504
+MAPE%: 3.14%
+Directional Accuracy (DA): 47.02%
+
+TEST SET METRICS:
+R2: 0.9338
+MSE: 1456316.4465
+RMSE: 1206.7794
+MAE: 858.0777
+MAPE%: 2.02%
+Directional Accuracy (DA): 45.38%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024\DGW_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9950
+MSE: 1657026.3374
+RMSE: 1287.2554
+MAE: 761.9504
+MAPE%: 3.14%
+Directional Accuracy (DA): 47.02%
+
+TEST SET METRICS:
+R2: 0.9338
+MSE: 1456316.4465
+RMSE: 1206.7794
+MAE: 858.0777
+MAPE%: 2.02%
+Directional Accuracy (DA): 45.38%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024\DGW_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9950
+MSE: 1657026.3374
+RMSE: 1287.2554
+MAE: 761.9504
+MAPE%: 3.14%
+Directional Accuracy (DA): 47.02%
+
+TEST SET METRICS:
+R2: 0.9338
+MSE: 1456316.4465
+RMSE: 1206.7794
+MAE: 858.0777
+MAPE%: 2.02%
+Directional Accuracy (DA): 45.38%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024\DGW_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9950
+MSE: 1657026.3374
+RMSE: 1287.2554
+MAE: 761.9504
+MAPE%: 3.14%
+Directional Accuracy (DA): 47.02%
+
+TEST SET METRICS:
+R2: 0.9338
+MSE: 1456316.4465
+RMSE: 1206.7794
+MAE: 858.0777
+MAPE%: 2.02%
+Directional Accuracy (DA): 45.38%
+==================================================
