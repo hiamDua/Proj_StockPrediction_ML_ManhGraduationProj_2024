@@ -1,0 +1,97 @@
+Cổ phiếu,Mô hình,Test R²,Test RMSE,Test MAPE%,Nhận xét
+CMG,Ridge Regression,0.9914,743.9696,2.16,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,Ridge Regression,0.9914,743.9696,2.16,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,LSTM Model,0.9816,1083.8562,3.37,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,"ARIMA Model (order=(5, 1, 0))",0.9924,697.9472,1.8,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,Ridge Regression,0.9914,743.9696,2.16,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,Ridge Regression,0.9914,743.9696,2.16,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,Ridge Regression,0.9914,743.9696,2.16,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,Ridge Regression,0.9914,743.9696,2.16,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,Ridge Regression,0.9914,743.9696,2.16,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,Ridge Regression,0.9914,743.9696,2.16,Hiệu suất tốt với MAPE thấp và R² cao.
+CMG,Ridge Regression,0.9914,743.9696,2.16,Hiệu suất tốt với MAPE thấp và R² cao.
+CMT,Ridge Regression,0.9865,693.5431,3.29,Hiệu suất tốt với MAPE thấp và R² cao.
+CMT,Ridge Regression,0.9865,693.5431,3.29,Hiệu suất tốt với MAPE thấp và R² cao.
+CMT,LSTM Model,0.9693,1042.9488,5.72,Hiệu suất khá nhưng cần cải thiện độ chính xác.
+CMT,"ARIMA Model (order=(5, 1, 0))",0.9881,650.406,3.1,Hiệu suất tốt với MAPE thấp và R² cao.
+CMT,Ridge Regression,0.9865,693.5431,3.29,Hiệu suất tốt với MAPE thấp và R² cao.
+CMT,Ridge Regression,0.9865,693.5431,3.29,Hiệu suất tốt với MAPE thấp và R² cao.
+CMT,Ridge Regression,0.9865,693.5431,3.29,Hiệu suất tốt với MAPE thấp và R² cao.
+CMT,Ridge Regression,0.9865,693.5431,3.29,Hiệu suất tốt với MAPE thấp và R² cao.
+CMT,Ridge Regression,0.9865,693.5431,3.29,Hiệu suất tốt với MAPE thấp và R² cao.
+DGW,Ridge Regression,0.995,1287.2554,3.14,Hiệu suất tốt với MAPE thấp và R² cao.
+DGW,Ridge Regression,0.995,1287.2554,3.14,Hiệu suất tốt với MAPE thấp và R² cao.
+DGW,LSTM Model,0.9892,1891.8956,4.53,Hiệu suất tốt với MAPE thấp và R² cao.
+DGW,"ARIMA Model (order=(5, 1, 0))",0.9969,1022.4135,2.4,Hiệu suất tốt với MAPE thấp và R² cao.
+DGW,Ridge Regression,0.995,1287.2554,3.14,Hiệu suất tốt với MAPE thấp và R² cao.
+DGW,Ridge Regression,0.995,1287.2554,3.14,Hiệu suất tốt với MAPE thấp và R² cao.
+DGW,Ridge Regression,0.995,1287.2554,3.14,Hiệu suất tốt với MAPE thấp và R² cao.
+DGW,Ridge Regression,0.995,1287.2554,3.14,Hiệu suất tốt với MAPE thấp và R² cao.
+DGW,Ridge Regression,0.995,1287.2554,3.14,Hiệu suất tốt với MAPE thấp và R² cao.
+ELC,Ridge Regression,0.9938,334.4142,2.78,Hiệu suất tốt với MAPE thấp và R² cao.
+ELC,Ridge Regression,0.9938,334.4142,2.78,Hiệu suất tốt với MAPE thấp và R² cao.
+ELC,LSTM Model,0.9861,501.7665,4.32,Hiệu suất tốt với MAPE thấp và R² cao.
+ELC,"ARIMA Model (order=(5, 1, 0))",0.9956,281.5102,2.14,Hiệu suất tốt với MAPE thấp và R² cao.
+ELC,Ridge Regression,0.9938,334.4142,2.78,Hiệu suất tốt với MAPE thấp và R² cao.
+ELC,Ridge Regression,0.9938,334.4142,2.78,Hiệu suất tốt với MAPE thấp và R² cao.
+ELC,Ridge Regression,0.9938,334.4142,2.78,Hiệu suất tốt với MAPE thấp và R² cao.
+ELC,Ridge Regression,0.9938,334.4142,2.78,Hiệu suất tốt với MAPE thấp và R² cao.
+ELC,Ridge Regression,0.9938,334.4142,2.78,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,LSTM Model,0.9941,1327.6429,2.32,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,LSTM Model,0.9914,1609.9552,2.58,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,"ARIMA Model (order=(5, 1, 0))",0.9974,893.8618,1.28,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,"ARIMA Model (order=(5, 1, 0))",0.9974,893.8618,1.28,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+FPT,Ridge Regression,0.9972,925.7108,1.51,Hiệu suất tốt với MAPE thấp và R² cao.
+SAM,Ridge Regression,0.9872,458.0846,2.29,Hiệu suất tốt với MAPE thấp và R² cao.
+SAM,LSTM Model,0.9651,754.9567,4.68,Hiệu suất tốt với MAPE thấp và R² cao.
+SAM,"ARIMA Model (order=(5, 1, 0))",0.9908,387.3385,1.86,Hiệu suất tốt với MAPE thấp và R² cao.
+SAM,Ridge Regression,0.9872,458.0846,2.29,Hiệu suất tốt với MAPE thấp và R² cao.
+SAM,Ridge Regression,0.9872,458.0846,2.29,Hiệu suất tốt với MAPE thấp và R² cao.
+SAM,Ridge Regression,0.9872,458.0846,2.29,Hiệu suất tốt với MAPE thấp và R² cao.
+SAM,Ridge Regression,0.9872,458.0846,2.29,Hiệu suất tốt với MAPE thấp và R² cao.
+SAM,Ridge Regression,0.9872,458.0846,2.29,Hiệu suất tốt với MAPE thấp và R² cao.
+VGC,Ridge Regression,0.9903,1260.8608,2.51,Hiệu suất tốt với MAPE thấp và R² cao.
+VGC,LSTM Model,0.9832,1657.5467,3.65,Hiệu suất tốt với MAPE thấp và R² cao.
+VGC,"ARIMA Model (order=(5, 1, 0))",0.9929,1082.633,2.06,Hiệu suất tốt với MAPE thấp và R² cao.
+VGC,Ridge Regression,0.9903,1260.8608,2.51,Hiệu suất tốt với MAPE thấp và R² cao.
+VGC,Ridge Regression,0.9903,1260.8608,2.51,Hiệu suất tốt với MAPE thấp và R² cao.
+VGC,Ridge Regression,0.9903,1260.8608,2.51,Hiệu suất tốt với MAPE thấp và R² cao.
+VGC,Ridge Regression,0.9903,1260.8608,2.51,Hiệu suất tốt với MAPE thấp và R² cao.
+VGC,Ridge Regression,0.9903,1260.8608,2.51,Hiệu suất tốt với MAPE thấp và R² cao.
+VGI,Ridge Regression,0.9653,1120.3524,2.8,Hiệu suất tốt với MAPE thấp và R² cao.
+VGI,LSTM Model,0.9293,1559.7915,3.89,Hiệu suất tốt với MAPE thấp và R² cao.
+VGI,"ARIMA Model (order=(5, 1, 0))",0.9729,993.0375,2.26,Hiệu suất tốt với MAPE thấp và R² cao.
+VGI,Ridge Regression,0.9653,1120.3524,2.8,Hiệu suất tốt với MAPE thấp và R² cao.
+VGI,Ridge Regression,0.9653,1120.3524,2.8,Hiệu suất tốt với MAPE thấp và R² cao.
+VGI,Ridge Regression,0.9653,1120.3524,2.8,Hiệu suất tốt với MAPE thấp và R² cao.
+VGI,Ridge Regression,0.9653,1120.3524,2.8,Hiệu suất tốt với MAPE thấp và R² cao.
+VGI,Ridge Regression,0.9653,1120.3524,2.8,Hiệu suất tốt với MAPE thấp và R² cao.
+VTL,Ridge Regression,0.9888,649.8397,1.77,Hiệu suất tốt với MAPE thấp và R² cao.
+VTL,LSTM Model,0.9735,983.7241,3.43,Hiệu suất tốt với MAPE thấp và R² cao.
+VTL,"ARIMA Model (order=(5, 1, 0))",0.9701,1063.2162,1.62,Hiệu suất tốt với MAPE thấp và R² cao.
+VTL,Ridge Regression,0.9888,649.8397,1.77,Hiệu suất tốt với MAPE thấp và R² cao.
+VTL,Ridge Regression,0.9888,649.8397,1.77,Hiệu suất tốt với MAPE thấp và R² cao.
+VTL,Ridge Regression,0.9888,649.8397,1.77,Hiệu suất tốt với MAPE thấp và R² cao.
+VTL,Ridge Regression,0.9888,649.8397,1.77,Hiệu suất tốt với MAPE thấp và R² cao.
+VTL,Ridge Regression,0.9888,649.8397,1.77,Hiệu suất tốt với MAPE thấp và R² cao.
+VTP,Ridge Regression,0.9885,1354.9826,1.89,Hiệu suất tốt với MAPE thấp và R² cao.
+VTP,LSTM Model,0.9659,2340.7989,3.47,Hiệu suất tốt với MAPE thấp và R² cao.
+VTP,"ARIMA Model (order=(5, 1, 0))",0.9832,1639.3083,1.56,Hiệu suất tốt với MAPE thấp và R² cao.
+VTP,Ridge Regression,0.9885,1354.9826,1.89,Hiệu suất tốt với MAPE thấp và R² cao.
+VTP,Ridge Regression,0.9885,1354.9826,1.89,Hiệu suất tốt với MAPE thấp và R² cao.
+VTP,Ridge Regression,0.9885,1354.9826,1.89,Hiệu suất tốt với MAPE thấp và R² cao.
+VTP,Ridge Regression,0.9885,1354.9826,1.89,Hiệu suất tốt với MAPE thấp và R² cao.
+VTP,Ridge Regression,0.9885,1354.9826,1.89,Hiệu suất tốt với MAPE thấp và R² cao.

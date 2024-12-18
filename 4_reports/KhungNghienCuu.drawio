@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="25.0.3">
+  <diagram name="Flowchart" id="RVbB43008ycLxZBUl13C">
+    <mxGraphModel dx="1187" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-1" value="Thu thập và tiền xử lý dữ liệu" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-2" value="Phân tích và khám phá dữ liệu" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-3" value="Xây dựng mô hình dự đoán" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-4" value="Huấn luyện và đánh giá kết quả" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="180" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-5" value="Dựng web ứng dụng mô hình học máy" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="70" y="185" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-6" value="Đề xuất và nghiên cứu tiếp theo" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#cfe2f3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KHMZIeZLSxYMLjo2uPH_-1" target="KHMZIeZLSxYMLjo2uPH_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KHMZIeZLSxYMLjo2uPH_-2" target="KHMZIeZLSxYMLjo2uPH_-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KHMZIeZLSxYMLjo2uPH_-3" target="KHMZIeZLSxYMLjo2uPH_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KHMZIeZLSxYMLjo2uPH_-4" target="KHMZIeZLSxYMLjo2uPH_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KHMZIeZLSxYMLjo2uPH_-5" target="KHMZIeZLSxYMLjo2uPH_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KHMZIeZLSxYMLjo2uPH_-14" target="KHMZIeZLSxYMLjo2uPH_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHMZIeZLSxYMLjo2uPH_-14" value="Phân tích cổ phiếu theo cặp" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

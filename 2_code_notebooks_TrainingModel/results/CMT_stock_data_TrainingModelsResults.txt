@@ -1,0 +1,158 @@
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/CMT_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9865
+MSE: 481002.0933
+RMSE: 693.5431
+MAE: 411.3285
+MAPE%: 3.29%
+Directional Accuracy (DA): 35.84%
+
+TEST SET METRICS:
+R2: 0.9548
+MSE: 799747.8766
+RMSE: 894.2862
+MAE: 533.7004
+MAPE%: 3.16%
+Directional Accuracy (DA): 44.14%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/CMT_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9865
+MSE: 481002.0933
+RMSE: 693.5431
+MAE: 411.3285
+MAPE%: 3.29%
+Directional Accuracy (DA): 35.84%
+
+TEST SET METRICS:
+R2: 0.9548
+MSE: 799747.8766
+RMSE: 894.2862
+MAE: 533.7004
+MAPE%: 3.16%
+Directional Accuracy (DA): 44.14%
+==================================================
+Model: LSTM Model
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/CMT_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9693
+MSE: 1087742.1639
+RMSE: 1042.9488
+MAE: 698.7552
+MAPE%: 5.72%
+
+TEST SET METRICS:
+R2: 0.8596
+MSE: 2483718.6577
+RMSE: 1575.9818
+MAE: 1091.2501
+MAPE%: 6.69%
+==================================================
+Model: ARIMA Model (order=(5, 1, 0))
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/CMT_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9881
+MSE: 423027.9763
+RMSE: 650.4060
+MAE: 376.0120
+MAPE%: 3.10%
+
+TEST SET METRICS:
+R2: -0.9829
+MSE: 35176201.7901
+RMSE: 5930.9529
+MAE: 4303.1799
+MAPE%: 22.82%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024/CMT_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9865
+MSE: 481002.0933
+RMSE: 693.5431
+MAE: 411.3285
+MAPE%: 3.29%
+Directional Accuracy (DA): 35.84%
+
+TEST SET METRICS:
+R2: 0.9548
+MSE: 799747.8766
+RMSE: 894.2862
+MAE: 533.7004
+MAPE%: 3.16%
+Directional Accuracy (DA): 44.14%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024\CMT_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9865
+MSE: 481002.0933
+RMSE: 693.5431
+MAE: 411.3285
+MAPE%: 3.29%
+Directional Accuracy (DA): 35.84%
+
+TEST SET METRICS:
+R2: 0.9548
+MSE: 799747.8766
+RMSE: 894.2862
+MAE: 533.7004
+MAPE%: 3.16%
+Directional Accuracy (DA): 44.14%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024\CMT_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9865
+MSE: 481002.0933
+RMSE: 693.5431
+MAE: 411.3285
+MAPE%: 3.29%
+Directional Accuracy (DA): 35.84%
+
+TEST SET METRICS:
+R2: 0.9548
+MSE: 799747.8766
+RMSE: 894.2862
+MAE: 533.7004
+MAPE%: 3.16%
+Directional Accuracy (DA): 44.14%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024\CMT_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9865
+MSE: 481002.0933
+RMSE: 693.5431
+MAE: 411.3285
+MAPE%: 3.29%
+Directional Accuracy (DA): 35.84%
+
+TEST SET METRICS:
+R2: 0.9548
+MSE: 799747.8766
+RMSE: 894.2862
+MAE: 533.7004
+MAPE%: 3.16%
+Directional Accuracy (DA): 44.14%
+==================================================
+Model: Ridge Regression
+File Path: D:/OneDrive - Hanoi University of Science and Technology/GIT/MiniProj_StockPrediction_ML_SpManhGraduationProj_2024/data/raw20192024\CMT_stock_data.csv
+TRAIN SET METRICS:
+R2: 0.9865
+MSE: 481002.0933
+RMSE: 693.5431
+MAE: 411.3285
+MAPE%: 3.29%
+Directional Accuracy (DA): 35.84%
+
+TEST SET METRICS:
+R2: 0.9548
+MSE: 799747.8766
+RMSE: 894.2862
+MAE: 533.7004
+MAPE%: 3.16%
+Directional Accuracy (DA): 44.14%
+==================================================
